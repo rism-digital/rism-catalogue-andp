@@ -8,7 +8,7 @@ sponsors:
   - url: https://fr.wikipedia.org/wiki/Licence_Creative_Commons
     logo: CC_license.png
 
-languages: ["en", "de"]
+languages: ["en", "de", "it"]
 default_lang: "en"
 exclude_from_localization: ["assets", "javascript", "rism-online-renderer", "images", "css", "README.md"]
 parallel_localization: false
