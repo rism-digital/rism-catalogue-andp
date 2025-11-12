@@ -1,1 +1,0 @@
-# Example site for a RISM Online work catalogue publication
