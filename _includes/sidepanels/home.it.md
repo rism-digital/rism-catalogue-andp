@@ -6,13 +6,13 @@ A cura di Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia e Leonardo
 
 ### Sommario:
 
-Introduzione
-Profilo biografico
-A. Composizioni per pianoforte
-B. Altre composizioni strumentali
-C. Composizioni vocali da camera
-D. Composizioni vocali-orchestrali
-E. Musica sacra
-F. Opere didattiche
-G. Appendice
+Introduzione  
+Profilo biografico  
+A. Composizioni per pianoforte  
+B. Altre composizioni strumentali  
+C. Composizioni vocali da camera  
+D. Composizioni vocali-orchestrali  
+E. Musica sacra  
+F. Opere didattiche  
+G. Appendice  
 Bibliografia
