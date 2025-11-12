@@ -1,4 +1,5 @@
-# Cogit per est pyra inpia pudori altissima
+# Catalogo Francesco Pollini / AndP
 
-Avus iam, et parte adita frigidus hoc utrimque Minervae. Quos quam motus montana
-rorant timoris, in laetatur maturo ad iaculo mitte.
+A cura di Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia e Leonardo Miucci. Berna, HKB/RISM Digital Center, 2025.  
+[https://www.hkb-interpretation.ch/francescopollini](https://www.hkb-interpretation.ch/francescopollini)
+[https://catalogue.rism.digital/AndP](https://catalogue.rism.digital/AndP).
