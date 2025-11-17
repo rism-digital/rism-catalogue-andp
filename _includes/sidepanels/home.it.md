@@ -6,7 +6,7 @@ A cura di Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia e Leonardo
 
 ### Sommario:
 
-Introduzione  
+[Introduzione](#Intro)  
 Profilo biografico  
 A. Composizioni per pianoforte  
 B. Altre composizioni strumentali  

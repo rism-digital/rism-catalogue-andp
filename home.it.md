@@ -13,7 +13,8 @@ Una panoramica dell’opera di Pollini comporta una valutazione dei suoi success
 
 La pubblicazione del catalogo tematico di Pollini fa parte dei risultati della ricerca compiuta all’interno del progetto [Francesco Pollini e la prima tradizione pianistica italiana](https://www.hkb-interpretation.ch/projekte/francesco-pollini-and-the-early-italian-piano-tradition) (Fondo Nazionale Svizzero per la Ricerca Scientifica, n. [182222](https://data.snf.ch/grants/grant/182222), 2019-2022). Le singole schede sono state create utilizzando il software Muscat, lo strumento della banca-dati RISM, e la pubblicazione è stata realizzata grazie al RISM Digital Center di Berna.  
 
-##Introduzione
+## Introduzione {#Intro}
+
 Il catalogo tematico costituisce, di regola, uno dei riferimenti più importanti per l’attività di un artista e per le composizioni attestate: la sua utilità per la ricerca e per il pubblico è innegabile. L’interesse per il pianista e compositore Francesco Pollini (1762-1846), intensificatosi a partire dagli anni 1990 grazie soprattutto a studi di musicologi e musicologhe in Italia e in Slovenia, più che giustifica la redazione di un catalogo delle sue opere.  
 
 Nel 1969 Gilda Grigolato descrisse per prima le vicende del lascito Pollini, pervenuto nel 1850 alla biblioteca del Conservatorio di Milano, elencando in appendice i manoscritti ivi conservati, e risolvendo un caso di omonimia con un più giovane Francesco Pollini (1832–1871) originario di Mendrisio, in Svizzera. Un catalogo tematico parziale, contenente solamente le opere per pianoforte, fu compilato nella tesi di laurea di Joseph Kotylo nel 1972. Le edizioni a stampa conservate in Italia furono riportate in appendice a un articolo di Elena Biggi Parodi uscito nel 1996. L’elenco delle opere pubblicato dalla stessa autrice nel New Grove comprende tutti i generi musicali e ogni tipologia di fonti ma presenta soltanto una scelta di composizioni.  
@@ -24,7 +25,8 @@ Mentre è possibile nella maggior parte dei casi datare le edizioni a stampa, ri
 
 Fonti musicali che trasmettono le composizioni di Pollini sono diffuse in più di cento diverse biblioteche in tutta Europa, e in alcune statunitensi. Si contano in totale poco meno di cinquecento esemplari di edizioni a stampa a fronte di più di duecento manoscritti. La sua fama si basa principalmente sul successo di alcune edizioni: del *Metodo*, F.201, e delle sei sonate op. 26, A.19a-f, si sono conservati più di 30 esemplari, delle *Variations & rondeaux* A.7 e della toccata op. 42 A.31 più di venti. Nelle biblioteche nazionali di Parigi e di Londra si conservano molti titoli a stampa ben più rari, specchio della ricca attività editoriale nelle due capitali. Le due collezioni principali per numero e importanza si conservano però nei due centri dove Pollini fu attivo come musicista e maggiormente apprezzato come tale: nella biblioteca Conservatorio "G. Verdi" di Milano, in particolare grazie al lascito di Antonio Gasparini, nipote di Marianna Pollini, e nell’archivio della Gesellschaft der Musikfreunde a Vienna. Una lista per quanto possibile completa delle fonti per le composizioni note di Francesco Pollini è disponibile su [Zenodo](https://doi.org/10.5281/zenodo.7021701).  
 
-##Nota biografica
+## Nota biografica {#Bio}
+
 Francesco Pollini nacque a Lubiana il 26 marzo del 1762 da Johann Chrysostomus, barone Pollini, e Maria Elisabetta Posarelli, e morì a Milano il 17 settembre 1846.  
 
 Nulla sappiamo di preciso sull’educazione musicale di Pollini. Fu avviato alla musica probabilmente in giovane età, nell’ambito dei rapporti di parentela ed amicizia che lo legavano alla famiglia Zois. Dopo il suo trasferimento a Vienna fece la conoscenza di W.A. Mozart, esibendosi in qualità di tenore per esecuzioni private di musiche mozartiane (un rapporto maestro-allievo ipotizzato nel necrologio di Pollini non è attestato da documenti coevi). A Vienna si sposò con Josepha von Bernrieder nel 1788, che morì solo quattro anni più tardi. Nel 1791 la sua educazione musicale aveva già raggiunto un livello tale da permettergli di definirsi, certo scherzosamente, «maître de chapelle» firmando un biglietto di ringraziamento inviato a un destinatario sconosciuto. A quest’epoca, ancora a Vienna, risalgono probabilmente i suoi primi esperimenti di compositore. Se le premesse per l’attività di Pollini sono date dalle esperienze musicali vissute a Lubiana, a Vienna e durante il suo grand tour giovanile, l’inizio di una attività regolare e documentata come compositore è successivo al trasferimento definitivo a Milano attorno al 1793.  
@@ -41,38 +43,46 @@ La produzione per generi e organici diversi dalla musica per pianoforte solo dec
 
 Pur avendo smesso di comporre, la fama di Pollini come pianista e compositore rimase viva. Ne rendono testimonianza gli apprezzamenti sinceri di personalità tanto diverse come Michail Glinka, Franz Liszt e Robert Schumann.
 
-##A. Composizioni per pianoforte
+## A. Composizioni per pianoforte {#sectionA}
+
 Per la vastità della produzione in questo ambito, per la sua distribuzione lungo tutta la vita artistica dell’autore e per l’importanza della ricezione è innegabile che Francesco Pollini è stato, in primo luogo, compositore di opere per pianoforte. È ben vero che le sue composizioni coprono anche vari altri generi: musica strumentale cameristica, musica sacra, teatro musicale, ma la sperimentazione in questi campi rimane tutto sommato episodica.
 
 Il corpus di composizioni per pianoforte di Pollini a noi pervenuto è assai consistente. Sono state rinvenute 39 pubblicazioni presso diversi editori europei, con e senza numeri d’opera. Le sue composizioni manoscritte comprendono 32 sonate a uno o più movimenti (la maggior parte inedite) e alcuni fogli d’album. 
 
 Alla prima fase creativa di Pollini, che si estende dal 1789 circa al 1812 e coincide con gli ultimi anni viennesi di Pollini, il suo definitivo trasferimento a Milano e i suoi primi successi editoriali, risalgono le 32 sonate a uno o più movimenti che ci sono pervenute in forma manoscritta (FPC A.1-2, 6, 8-9, 17-18, 48-60, 62-73), e le sue prime pubblicazioni con o senza numero d’opera (A.3-5, 7, 10-16) fino alle sonate op. 26 (A.19) annesse al *Metodo* (F.201). La seconda fase copre il ventennio successivo, dal 1812 al 1834, ed è caratterizzata dalla produzione di variazioni, rondò, fantasie su temi d’opera e toccate, pubblicate quasi esclusivamente presso l’editore Ricordi. Le sonate op. 26 fanno da cerniera tra questi due periodi: esse rappresentano, da un lato, il culmine dell’impegno sonatistico di Pollini e l’ultimo ciclo da lui dedicato a questo genere strumentale; dall’altro, segnano l’inizio della sua duratura collaborazione con Ricordi.
 
-##B. Altre composizioni strumentali
+## B. Altre composizioni strumentali {#sectionB} 
+
 Sono soltanto una decina le composizioni per organici strumentali diversi dal pianoforte. La maggior parte di queste è legata all’arpa, strumento praticato dalla seconda moglie, Marianna Gasparini. Cronologicamente si passa dalla *Air varié pour la harpe* (B.74) pubblicata dalle sorelle Érard nel 1802 – una delle prime pubblicazioni di Pollini in assoluto – alla *Sonata facile per cembalo od arpa con violino obbligato* op. 33 (B.77) edita da Ricordi nel 1817. Si possono facilmente immaginare Marianna e Francesco suonare insieme la *Grande sonate, caprice et variations per arpa e pianoforte* del 1807 (B.75). Senza data rimangono due sonate per violino e pianoforte conservate manoscritte (B.78, B.83).
 
-##C. Composizioni vocali da camera
+## C. Composizioni vocali da camera {#sectionC}
+
 La lirica vocale da camera è un genere poliedrico (a una, due, fino a cinque voci - tra le composizioni perdute -, con o senza accompagnamento di pianoforte) e prevalentemente privato, ma non necessariamente secondario. Mentre alcune canzonette sono senza dubbio poco impegnative dal punto di vista compositivo ed estetico, tutte rispecchiano attraverso le scelte testuali e intertestuali la rete di rapporti personali e culturali di Pollini. La sua produzione vocale da camera si può così osservare come un prodotto di molteplici collaborazioni.  
 
 Il gran numero di liriche profane da camera vede la luce in diversi momenti della sua esistenza. Le date accertate spaziano dal 1803, per le *Tre canzonette* (C.85) pubblicate da Nägeli a Zurigo, al 1823, per il sonetto *Vile un pensier mi dice* edito da Ricordi (C.96).
 
-##D. Composizioni vocali-orchestrali
+## D. Composizioni vocali-orchestrali {#sectionD}
+
 L'unica composizione di teatro musicale di Pollini eseguita in un teatro pubblico fu *La casetta nel bosco* (D.167) nel 1798. L’anno seguente Pollini compone la cantata *Il genio insubre* (D.169), e nel 1801 infine viene eseguita alla Scala la cantata *Il trionfo della pace* (D.173), di cui si è conservato solo il libretto. Mentre la cantata del 1799 celebra il ritorno degli Austriaci nell’aprile di quell’anno, quella rappresentata il 30 aprile 1801 festeggia con opposto orientamento politico il trattato di pace di Lunéville del febbraio precedente tra la Repubblica Cisalpina e l’Impero austriaco e la posa della prima pietra del Foro Buonaparte. Della composizione del *Trionfo della pace* Pollini fu incaricato dal Ministero dell’Interno.  
 
 Se *La casetta nel bosco* fu rappresentata al teatro della Canobbiana, gli ampi estratti da *Ines de Castro* D.175 (un duetto e un sestetto), *Il ripudio fortunato* D.171 (introduzione, duetto, due quartetti e finale) e *Le convenienze teatrali* D.173 (introduzione, aria, terzetto, quartetto e sestetto) sono invece probabilmente da far risalire a rappresentazioni private in forma semi-scenica o concertante. Infine, i testi di molti pezzi singoli sono presi a prestito dai libretti opere rappresentate a Milano proprio negli stessi anni in cui Pollini sperimenta con composizioni di ampio respiro e di risonanza pubblica. Questi numeri isolati si possono forse considerare arie sostitutive per "accademie" private, oppure esercizi di composizione sotto l’egida di Zingarelli.  
 
-##E. Musica sacra
+## E. Musica sacra {#sectionE}
+
 Si conoscono solo pochissime composizioni su testo liturgico in latino, concepite dunque per essere eseguite in chiesa durante una funzione religiosa: il *Te Deum* E.185 e l’acclamazione *Vivat rex* (perduta), databili al 1805, e il *Requiem* E.190, privo di data.  
 
 Un genere sacro di natura privata è invece la composizione di parafrasi italiane di testi sacri, come le tre lamentazioni databili al 1823 (E.188, E.189 ed E.190) e il fortunato *Stabat mater* di Evasio Leone pubblicato nel 1821 (E.187). Pollini mise in musica anche poesie spirituali, come la *Via crucis* (E.184), che reca sull’autografo la data 1800, o il sonetto *Io chiedo al ciel* di Giovanni Mario Crescimbeni (E.191).  
 
-##F. Opere didattiche
+## F. Opere didattiche {#sectionF}
+
 La produzione didattica di Pollini si riassume essenzialmente nel *Metodo pel Clavicembalo* F.201 (1812) commissionatogli dal neonato Conservatorio di Milano per servire le classi di pianoforte. Il trattato rivela un retroterra estetico che illumina i punti di contatto tra l’estetica di Pollini e quella delle principali scuole pianistiche di inizio Ottocento. Nel primo Ottocento, l’interpretazione del tocco, del rubato o l’utilizzo dei pedali era ancora, come nel secolo precedente, di carattere ‘intuitivo’, vale a dire lasciata perlopiù alla comprensione dell’esecutore. Sotto questa ottica, la testimonianza del *Metodo* – primo trattato pianistico pubblicato in Italia e in italiano – ha assunto una valenza preziosa per generazioni di pianisti, a partire dalla sua epoca fino ai giorni nostri. Il *Metodo pel Clavicembalo* vede la luce in un’epoca di grandi cambiamenti organologici nella costruzione degli strumenti da tasto e di grande fermento creativo per la letteratura che valorizza le ricche possibilità offerte dal pianoforte. Al contempo si osservano un forte incremento del mercato amatoriale, che provoca una richiesta crescente di istruzioni per suonare correttamente, e la nascita delle prime istituzioni statali per l’insegnamento della musica, che richiedono testi didattici approvati e fondati su principi razionali. 
 
-##Bibliografia
+## Bibliografia {#Biblio}
+
 La bibliografia relativa a singole composizioni è menzionata nelle rispettive schede. Qui si riporta una scelta della bibliografia generale riguardo a Francesco Pollini e alle sue composizioni. 
 
-###Studi
+### Studi {#Refs}
+
 - Andreacchio, Sara e Bacciagaluppi, Claudio. “Prospettive di ricerca sull’attività compositiva di Francesco Pollini e appunti per un catalogo delle opere”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, a cura di Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci e Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 37–60. 
 - Andreacchio, Sara. Francesco Pollini: pianista, compositore e didatta. Uno studio della produzione pianistica sotto la prospettiva delle sue tre personae, tesi di dottorato, Université de Genève, 2025.  
 - Andreacchio, Sara. “Virtuosity in Francesco Pollini’s Piano Works: Issues of Genre, Piano Writing and Performance Practice”, in: Virtuosität und Innovation: Symposium zur Klaviermusik im brillanten Stil, a cura di Stephan Lewandowski. Stuttgart: Franz Steiner Verlag, 2025, pp. 155–200.  
@@ -99,6 +109,7 @@ La bibliografia relativa a singole composizioni è menzionata nelle rispettive s
 - Steffan, Carlida. “Francesco Pollini: musica vocale da camera e reti filarmoniche”, in: Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci e Claudio Toscani. Francesco Pollini e il mondo musicale milanese di primo Ottocento. Pisa: Edizioni ETS, 2024, pp. 115–128.
 - Toscani, Claudio. “Intorno al Metodo per clavicembalo: uno sguardo sulla trattatistica coeva per strumenti da tasto”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, a cura di Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci e Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 151–164.
 
-###Edizioni critiche
+### Edizioni critiche {#Eds}
+
 - Miucci, Leonardo (a cura di). Metodo per pianoforte = Piano Method \[1812\]. Roma: Società Editrice di Musicologia, 2016.
 - Škrjanc, Radovan and Kokole, Metoda (eds.). Tre sonate op. 26. (Monumenta artis musicae Sloveniae, vol. 59). Lubiana: Muzikološki inštitut ZRC SAZU, 2014.

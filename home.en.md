@@ -13,7 +13,8 @@ An overview of Pollini's work entails an assessment of his achievements and allo
 
 The publication of Pollini's thematic catalogue is part of the results of research carried out within the project [Francesco Pollini and the early Italian piano tradition](https://www.hkb-interpretation.ch/projekte/francesco-pollini-and-the-early-italian-piano-tradition) (Swiss National Science Foundation, no. [182222](https://data.snf.ch/grants/grant/182222), 2019-2022). The individual entries were created using Muscat software, the RISM database tool, and the publication was made possible thanks to the RISM Digital Centre in Bern.  
 
-##Introduction
+## Introduction {#Intro}
+
 The thematic catalogue is usually one of the most important references for the work of artists and for their documented compositions: its usefulness for research and for the public is undeniable. Interest in the pianist and composer Francesco Pollini (1762-1846), which intensified in the 1990s thanks mainly to studies by musicologists in Italy and Slovenia, more than justifies the compilation of a catalogue of his works.  
 
 In 1969, Gilda Grigolato was the first to describe the history of Pollini's collection, which arrived at the library of the Milan Conservatory in 1850, listing the manuscripts preserved there in an appendix and resolving a case of homonymy with a younger Francesco Pollini (1832–1871) from Mendrisio, Switzerland. A partial thematic catalogue, containing only the works for piano, was compiled in Joseph Kotylo's thesis in 1972. The printed editions preserved in Italy were listed in the appendix to an article by Elena Biggi Parodi published in 1996. The list of works published by the same author in the New Grove includes all musical genres and all types of sources but presents only a selection of compositions.  
@@ -24,7 +25,8 @@ While it is possible in most cases to date the printed editions by referring to 
 
 Musical sources containing Pollini's compositions are scattered across more than one hundred different libraries throughout Europe, as well as in some in the United States. In total, there are just under five hundred copies of printed editions and more than two hundred manuscripts. His fame is based mainly on the success of certain editions: more than 30 copies of the *Metodo*, F.201, and the six sonatas op. 26, A.19a-f, have been preserved, and more than twenty copies of the *Variations & rondeaux* A.7 and the toccata op. 42 A.31. The national libraries of Paris and London hold many much rarer printed titles, reflecting the rich publishing activity in the two capitals. However, the two main collections in terms of number and importance are preserved in the two centres where Pollini was active as a musician and most appreciated as such: in the Conservatorio ‘G. Verdi’ library in Milan, thanks in particular to the bequest of Antonio Gasparini, Marianna Pollini's nephew, and in the archives of the Gesellschaft der Musikfreunde in Vienna. A list of sources for Francesco Pollini's known compositions, as complete as possible, is available on [Zenodo](https://doi.org/10.5281/zenodo.7021701).  
 
-##Biographical note
+## Biographical note {#Bio} 
+
 Francesco Pollini was born in Ljubljana on 26 March 1762 to Johann Chrysostomus, Baron Pollini, and Maria Elisabetta Posarelli, and died in Milan on 17 September 1846.  
 
 We know nothing specific about Pollini's musical education. He was probably introduced to music at a young age, through his family and friends who were connected to the Zois family. After moving to Vienna, he met W.A. Mozart and performed as a tenor in private performances of Mozart's music (a teacher-student relationship suggested in Pollini's obituary is not substantiated by contemporary documents). In Vienna, he married Josepha von Bernrieder in 1788, who died only four years later. By 1791, his musical education had already reached such a level that he could describe himself, if only jokingly, as a “maître de chapelle” when signing a thank-you note sent to an unknown recipient. His first experiments as a composer probably date back to this period, while he was still in Vienna. Although the foundations for Pollini's career were laid by his musical experiences in Ljubljana, Vienna and during his grand tour as a young man, he only began to work regularly and document his work as a composer after moving permanently to Milan around 1793.  
@@ -41,37 +43,45 @@ Production in genres and for instruments other than solo piano gradually decline
 
 Although he had stopped composing, Pollini's fame as a pianist and composer remained alive. This is evidenced by the sincere appreciation of such diverse personalities as Michail Glinka, Franz Liszt and Robert Schumann.
 
-##A. Piano works
+## A. Piano works {#sectionA}  
+
 Given the vastness of his output in this field, its distribution throughout the composer's artistic life and the importance of its reception, it is undeniable that Francesco Pollini was, first and foremost, a composer of works for piano. It is true that his compositions also cover various other genres: instrumental chamber music, sacred music and musical theatre, but his experimentation in these fields remains, all things considered, episodic.
 
 The corpus of Pollini's piano compositions that has come down to us is quite substantial. Thirty-nine publications have been identified with various European publishers, with and without opus numbers. His manuscript compositions include 32 sonatas with one or more movements (most of them unpublished) and some album leaves. 
 
 Pollini's first creative phase, which lasted from around 1789 to 1812 and coincided with his final years in Vienna, his permanent move to Milan and his first publishing successes, produced the 32 sonatas with one or more movements that have come down to us in manuscript form (FPC A.1-2, 6, 8-9, 17-18, 48-60, 62-73), and his first publications with or without opus numbers (A.3-5, 7, 10-16) up to the sonatas op. 26 (A.19) annexed to the *Method* (F.201). The second phase covers the following twenty years, from 1812 to 1834, and is characterised by the production of variations, rondos, fantasies on opera themes and toccatas, published almost exclusively by Ricordi. The sonatas Op. 26 act as a bridge between these two periods: on the one hand, they represent the culmination of Pollini's sonata writing and the last cycle he dedicated to this instrumental genre; on the other, they mark the beginning of his long-lasting collaboration with Ricordi.
 
-##B. Other instrumental works
+## B. Other instrumental works {#sectionB}  
+
 There are only about ten compositions for instruments other than the piano. Most of these are linked to the harp, an instrument played by his second wife, Marianna Gasparini. Chronologically, they range from the *Air varié pour la harpe* (B.74) published by the Érard sisters in 1802 – one of Pollini's very first publications – to the *Sonata facile per cembalo od arpa con violino obbligato* op. 33 (B.77) published by Ricordi in 1817. It is easy to imagine Marianna and Francesco playing together the *Grande sonate, caprice et variations for harp and piano* of 1807 (B.75). Two sonatas for violin and piano remain undated and are preserved in manuscript form (B.78, B.83).
 
-##C. Chamber vocal music
+## C. Chamber vocal music {#sectionC}  
+
 Vocal chamber music is a multifaceted genre (for one, two, up to five voices – among the lost compositions – with or without piano accompaniment) and predominantly private, but not necessarily secondary. While some songs are undoubtedly undemanding from a compositional and aesthetic point of view, all of them reflect Pollini's network of personal and cultural relationships through their textual and intertextual choices. His vocal chamber music production can thus be seen as the product of multiple collaborations.  
 The large number of secular chamber songs saw the light at different moments in his life. The confirmed dates range from 1803, for the *Tre canzonette* (C.85) published by Nägeli in Zurich, to 1823, for the sonnet *Vile un pensier mi dice* published by Ricordi (C.96).
 
-##D. Vocal and orchestral works
+## D. Vocal and orchestral works {#sectionD}
+
 The only musical theatre composition by Pollini performed in a public theatre was *La casetta nel bosco* (D.167) in 1798. The following year, Pollini composed the cantata *Il genio insubre* (D.169), and in 1801, the cantata *Il trionfo della pace* (D.173) was finally performed at La Scala, of which only the libretto has been preserved. While the 1799 cantata celebrated the return of the Austrians in April of that year, the one performed on 30 April 1801 celebrated, with the opposite political orientation, the Treaty of Lunéville of the previous February between the Cisalpine Republic and the Austrian Empire and the laying of the foundation stone of the Foro Buonaparte. Pollini was commissioned by the Ministry of the Interior to compose *Trionfo della pace*.  
 
 While *La casetta nel bosco* was performed at the Canobbiana theatre, extensive excerpts from *Ines de Castro* D.175 (a duet and a sextet), *Il ripudio fortunato* D.171 (introduction, duet, two quartets and finale) and *Le convenienze teatrali* D.173 (introduction, aria, trio, quartet and sextet) are probably attributable to private performances in semi-staged or concertante form. Finally, the texts of many individual pieces are borrowed from the librettos of operas performed in Milan in the very years when Pollini was experimenting with large-scale compositions of public resonance. These isolated numbers can perhaps be considered replacement arias for private “academies”, or compositional exercises under the aegis of Zingarelli.  
 
-##E. Sacred music
+## E. Sacred music {#sectionE}
+
 Only a few compositions based on Latin liturgical texts are known, conceived to be performed in church during religious services: the Te Deum E.185 and the acclamation Vivat rex (lost), dating from 1805, and the Requiem E.190, undated.  
 
 A sacred genre of a private nature, on the other hand, is the composition of Italian paraphrases of sacred texts, such as the three lamentations dating from 1823 (E.188, E.189 and E.190) and the successful *Stabat mater* by Evasio Leone published in 1821 (E.187). Pollini also set spiritual poems to music, such as the *Via crucis* (E.184), which bears the date 1800 on the autograph, and the sonnet *Io chiedo al ciel* by Giovanni Mario Crescimbeni (E.191).  
 
-##F. Pedagogical works
+## F. Pedagogical works {#sectionF}
+
 Pollini's educational output can essentially be summarised in his *Metodo pel Clavicembalo* F.201 (1812), commissioned by the newly founded Milan Conservatory for use in piano classes. The treatise reveals an aesthetic background that illuminates the points of contact between Pollini's aesthetics and those of the main piano schools of the early 19th century. In the early nineteenth century, the interpretation of touch, rubato and the use of pedals was still, as in the previous century, “intuitive” in nature, i.e. left largely to the performer's understanding. From this perspective, the *Metodo* – the first piano treatise published in Italy and in Italian – has been invaluable to generations of pianists, from its time to the present day. The *Metodo pel Clavicembalo* saw the light of day at a time of great organological changes in the construction of keyboard instruments and great creative ferment in the literature that exploited the rich possibilities offered by the piano. At the same time, there was a sharp increase in the amateur market, which led to a growing demand for instructions on how to play correctly, and the emergence of the first state institutions for music teaching, which required approved teaching texts based on rational principles. 
 
-##Bibliography
+## Bibliography {#Biblio}
+
 The bibliography relating to individual compositions is mentioned in the respective entries. Here is a selection from the general bibliography concerning Francesco Pollini and his compositions. 
 
-###Secondary literature
+### Secondary literature {#Refs}
+
 - Andreacchio, Sara e Bacciagaluppi, Claudio. “Prospettive di ricerca sull’attività compositiva di Francesco Pollini e appunti per un catalogo delle opere”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, ed. Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci and Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 37–60. 
 - Andreacchio, Sara. Francesco Pollini: pianista, compositore e didatta. Uno studio della produzione pianistica sotto la prospettiva delle sue tre personae, PhD thesis, Université de Genève, 2025.  
 - Andreacchio, Sara. “Virtuosity in Francesco Pollini’s Piano Works: Issues of Genre, Piano Writing and Performance Practice”, in: Virtuosität und Innovation: Symposium zur Klaviermusik im brillanten Stil, ed. Stephan Lewandowski. Stuttgart: Franz Steiner Verlag, 2025, pp. 155–200.  
@@ -98,6 +108,7 @@ The bibliography relating to individual compositions is mentioned in the respect
 - Steffan, Carlida. “Francesco Pollini: musica vocale da camera e reti filarmoniche”, in: Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci and Claudio Toscani. Francesco Pollini e il mondo musicale milanese di primo Ottocento. Pisa: Edizioni ETS, 2024, pp. 115–128.
 - Toscani, Claudio. “Intorno al Metodo per clavicembalo: uno sguardo sulla trattatistica coeva per strumenti da tasto”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, ed. Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci and Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 151–164.
 
-###Critical editions
+### Critical editions {#Eds}
+
 - Miucci, Leonardo (ed.). Metodo per pianoforte = Piano Method \[1812\]. Roma: Società Editrice di Musicologia, 2016.
 - Škrjanc, Radovan and Kokole, Metoda (eds.). Tre sonate op. 26. (Monumenta artis musicae Sloveniae, vol. 59). Lubiana: Muzikološki inštitut ZRC SAZU, 2014.
