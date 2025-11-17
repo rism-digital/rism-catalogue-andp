@@ -76,6 +76,10 @@ A sacred genre of a private nature, on the other hand, is the composition of Ita
 
 Pollini's educational output can essentially be summarised in his *Metodo pel Clavicembalo* F.201 (1812), commissioned by the newly founded Milan Conservatory for use in piano classes. The treatise reveals an aesthetic background that illuminates the points of contact between Pollini's aesthetics and those of the main piano schools of the early 19th century. In the early nineteenth century, the interpretation of touch, rubato and the use of pedals was still, as in the previous century, “intuitive” in nature, i.e. left largely to the performer's understanding. From this perspective, the *Metodo* – the first piano treatise published in Italy and in Italian – has been invaluable to generations of pianists, from its time to the present day. The *Metodo pel Clavicembalo* saw the light of day at a time of great organological changes in the construction of keyboard instruments and great creative ferment in the literature that exploited the rich possibilities offered by the piano. At the same time, there was a sharp increase in the amateur market, which led to a growing demand for instructions on how to play correctly, and the emergence of the first state institutions for music teaching, which required approved teaching texts based on rational principles. 
 
+## G. Appendix {#sectionG}
+
+The appendix contains works considered lost, as recorded in historical catalogues, and Pollini's arrangements of compositions by other composers.
+
 ## Bibliography {#Biblio}
 
 The bibliography relating to individual compositions is mentioned in the respective entries. Here is a selection from the general bibliography concerning Francesco Pollini and his compositions. 

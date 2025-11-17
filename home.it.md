@@ -77,6 +77,10 @@ Un genere sacro di natura privata è invece la composizione di parafrasi italian
 
 La produzione didattica di Pollini si riassume essenzialmente nel *Metodo pel Clavicembalo* F.201 (1812) commissionatogli dal neonato Conservatorio di Milano per servire le classi di pianoforte. Il trattato rivela un retroterra estetico che illumina i punti di contatto tra l’estetica di Pollini e quella delle principali scuole pianistiche di inizio Ottocento. Nel primo Ottocento, l’interpretazione del tocco, del rubato o l’utilizzo dei pedali era ancora, come nel secolo precedente, di carattere ‘intuitivo’, vale a dire lasciata perlopiù alla comprensione dell’esecutore. Sotto questa ottica, la testimonianza del *Metodo* – primo trattato pianistico pubblicato in Italia e in italiano – ha assunto una valenza preziosa per generazioni di pianisti, a partire dalla sua epoca fino ai giorni nostri. Il *Metodo pel Clavicembalo* vede la luce in un’epoca di grandi cambiamenti organologici nella costruzione degli strumenti da tasto e di grande fermento creativo per la letteratura che valorizza le ricche possibilità offerte dal pianoforte. Al contempo si osservano un forte incremento del mercato amatoriale, che provoca una richiesta crescente di istruzioni per suonare correttamente, e la nascita delle prime istituzioni statali per l’insegnamento della musica, che richiedono testi didattici approvati e fondati su principi razionali. 
 
+## G. Appendice {#sectionG}
+
+L'appendice contiene le opere da considerarsi perdute, testimoniate in cataloghi storici, e gli arrangiamenti da parte di Pollini di composizioni altrui.
+
 ## Bibliografia {#Biblio}
 
 La bibliografia relativa a singole composizioni è menzionata nelle rispettive schede. Qui si riporta una scelta della bibliografia generale riguardo a Francesco Pollini e alle sue composizioni. 
