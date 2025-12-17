@@ -43,7 +43,7 @@ Production in genres and for instruments other than solo piano gradually decline
 
 Although he had stopped composing, Pollini's fame as a pianist and composer remained alive. This is evidenced by the sincere appreciation of such diverse personalities as Michail Glinka, Franz Liszt and Robert Schumann.
 
-## Catalogue structure
+## Catalogue structure {#structure}
 
 The numbering given by the composer himself to his works cannot be used for a modern thematic catalogue. Pollini assigned opus numbers only to the compositions he considered most important (mostly piano works), and only starting from Op. 10 of 1808 (A.13). The opus numbers from 1 to 9 therefore remain implied and *ex post*. Similarly, some subsequent opus numbers remain implied. In particular, the large gap between Op. 13 (1809) and Op. 26 (1812) appears to be irresolvable. 
 The *Scherzo, variazioni e fantasia* (1830, A.44) is a case of parallel editions in Milan by Ricordi and in Leipzig by Breitkopf & Härtel. The Milan edition does not bear any opus number, while the Leipzig edition bears the number op. 56. Two years later, Ricordi attributed this opus number to the *Saggio di una toccata* (1832, A.45), while in the numerical catalogue published in 1857 (see Zecca Laterza 1984), Ricordi himself used the Breitkopf numbering. In this catalogue, we therefore use the opus numbers 56a and 56b for compositions A.44 and A.45. 
