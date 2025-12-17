@@ -45,7 +45,9 @@ Although he had stopped composing, Pollini's fame as a pianist and composer rema
 
 ## Catalogue structure
 
-The catalogue number consists of a letter and a number. The letters indicate the type of work. The number is sequential and, as far as possible, follows an order by date and, if this is unknown, by key (ascending in degrees from C major). Additions and corrections after 2023 have numbers starting from 220.
+The numbering given by the composer himself to his works cannot be used for a modern thematic catalogue. Pollini assigned opus numbers only to the compositions he considered most important (mostly piano works), and only starting from Op. 10 of 1808 (A.13). The opus numbers from 1 to 9 therefore remain implied and *ex post*. Similarly, some subsequent opus numbers remain implied. In particular, the large gap between Op. 13 (1809) and Op. 26 (1812) appears to be irresolvable. 
+The *Scherzo, variazioni e fantasia* (1830, A.44) is a case of parallel editions in Milan by Ricordi and in Leipzig by Breitkopf & Härtel. The Milan edition does not bear any opus number, while the Leipzig edition bears the number op. 56. Two years later, Ricordi attributed this opus number to the *Saggio di una toccata* (1832, A.45), while in the numerical catalogue published in 1857 (see Zecca Laterza 1984), Ricordi himself used the Breitkopf numbering. In this catalogue, we therefore use the opus numbers 56a and 56b for compositions A.44 and A.45. 
+The identification code for each composition in this catalogue consists of a letter and a number. The letters indicate the type of composition. The numbers are sequential and, as far as possible, follow an order by date and, if this is unknown, by key (ascending by degrees from C major). Additions and corrections after 2023 are numbered from 220 onwards.
 
 ### A. Piano works {#sectionA}  
 
@@ -55,9 +57,13 @@ The corpus of Pollini's piano compositions that has come down to us is quite sub
 
 Pollini's first creative phase, which lasted from around 1789 to 1812 and coincided with his final years in Vienna, his permanent move to Milan and his first publishing successes, produced the 32 sonatas with one or more movements that have come down to us in manuscript form (FPC A.1-2, 6, 8-9, 17-18, 48-60, 62-73), and his first publications with or without opus numbers (A.3-5, 7, 10-16) up to the sonatas op. 26 (A.19) annexed to the *Method* (F.201). The second phase covers the following twenty years, from 1812 to 1834, and is characterised by the production of variations, rondos, fantasies on opera themes and toccatas, published almost exclusively by Ricordi. The sonatas Op. 26 act as a bridge between these two periods: on the one hand, they represent the culmination of Pollini's sonata writing and the last cycle he dedicated to this instrumental genre; on the other, they mark the beginning of his long-lasting collaboration with Ricordi.
 
+An explanatory note is necessary for the numbering of the *Dodeci monferrine* A.15. Although they are numbered from 1 to 12 and are also transmitted separately (for example, in the *Choix de danses* for the Congress of Vienna, printed by Artaria in Vienna), the original edition prescribes that they be performed in pairs: the second monferrina of each pair is followed by a repetition of the first. 
+
 ### B. Other instrumental works {#sectionB}  
 
 There are only about ten compositions for instruments other than the piano. Most of these are linked to the harp, an instrument played by his second wife, Marianna Gasparini. Chronologically, they range from the *Air varié pour la harpe* (B.74) published by the Érard sisters in 1802 – one of Pollini's very first publications – to the *Sonata facile per cembalo od arpa con violino obbligato* op. 33 (B.77) published by Ricordi in 1817. It is easy to imagine Marianna and Francesco playing together the *Grande sonate, caprice et variations for harp and piano* of 1807 (B.75). Two sonatas for violin and piano remain undated and are preserved in manuscript form (B.78, B.83).
+
+The only known source for the instrumental piece B.82 is an autograph manuscript preserved in a private Italian collection. The composition has no title. The instrumentation for a single string instrument and a wind ensemble is unusual for the period and unique in Pollini's oeuvre.
 
 ### C. Chamber vocal music {#sectionC}  
 
@@ -72,9 +78,11 @@ While *La casetta nel bosco* was performed at the Canobbiana theatre, extensive 
 
 ### E. Sacred music {#sectionE}
 
-Only a few compositions based on Latin liturgical texts are known, conceived to be performed in church during religious services: the Te Deum E.185 and the acclamation Vivat rex (lost), dating from 1805, and the Requiem E.190, undated.  
+Only a few compositions based on Latin liturgical texts are known, conceived to be performed in church during religious services: the *Te Deum* E.185, the acclamation *Vivat rex* dating from 1805 (lost), and the *Requiem* E.190, undated.  
 
-A sacred genre of a private nature, on the other hand, is the composition of Italian paraphrases of sacred texts, such as the three lamentations dating from 1823 (E.188, E.189 and E.190) and the successful *Stabat mater* by Evasio Leone published in 1821 (E.187). Pollini also set spiritual poems to music, such as the *Via crucis* (E.184), which bears the date 1800 on the autograph, and the sonnet *Io chiedo al ciel* by Giovanni Mario Crescimbeni (E.191).  
+A sacred genre of a private nature, on the other hand, is the composition of Italian paraphrases of sacred texts, such as and the successful *Stabat mater* published in 1821 on a translation by Evasio Leone (E.187). Pollini also set spiritual poems to music, such as the *Via crucis* (E.184), which bears the date 1800 on the autograph, and the sonnet *Io chiedo al ciel* by Giovanni Mario Crescimbeni (E.191).  
+
+The numbering of the lamentations dating from 1823 (E.188, E.189 and E.190), referred to as the first, fifth and last lamentations in the autograph, may seem unusual when considering their liturgical use. However, it actually reflects the titles given by the translator Evasio Leone to his collection *Lamentazioni di Geremia adattate al gusto dell'italiana poesia* (Lamentations of Jeremiah adapted to the taste of Italian poetry), first published in Turin in 1798.
 
 ### F. Pedagogical works {#sectionF}
 
@@ -116,6 +124,7 @@ The bibliography relating to individual compositions is mentioned in the respect
 - Salvetti, Guido. “Teoria e pratica pianistica nella Milano di primo Ottocento: Il caso Pollini”, in: Tasti neri e Tasti bianchi. Pianoforte, organo e attività musicale in Italia nel XIX e XX secolo, ed. Anelide Ruggeri and Marco Nascimbene. Lucca: LIM, 2011, pp. 85–96.
 - Steffan, Carlida. “Francesco Pollini: musica vocale da camera e reti filarmoniche”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, ed. Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci e Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 115–128.
 - Toscani, Claudio. “Intorno al Metodo per clavicembalo: uno sguardo sulla trattatistica coeva per strumenti da tasto”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, ed. Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci and Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 151–164.
+- Zecca Laterza, Agostina. Il catalogo numerico Ricordi 1857: con date e indici. Roma: Nuovo istituto editoriale italiano, 1984.
 
 ### Critical editions {#Eds}
 

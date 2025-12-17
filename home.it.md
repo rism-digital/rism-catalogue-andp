@@ -45,7 +45,9 @@ Pur avendo smesso di comporre, la fama di Pollini come pianista e compositore ri
 
 ## Struttura del catalogo {#structure}
 
-Il numero di catalogo si compone di una lettera e di un numero. Le lettere indicano la tipologia delle opere. Il numero è progressivo e – fin dove possibile – segue un ordinamento per data e, se questa è sconosciuta, per tonalità (salendo per gradi da Do maggiore). Aggiunte e rettifiche successive al 2023 portano numeri a partire da 220.
+La numerazione data dal compositore stesso alle proprie opere non può essere utilizzata per un catalogo tematico moderno. Pollini ha dotato di un numero d'opera soltanto le composizioni da lui considerate più importanti (in maggioranza opere pianistiche), e solamente a partire dall'op. 10 del 1808 (A.13). I numeri d'opera da 1 a 9 restano quindi sottintesi ed *ex post*. Del pari sottintesi restano alcuni numeri d'opera successivi. In particolare appare irrisolvibile l'ampia lacuna tra l'op. 13 (1809) e l'op. 26 (1812). 
+Lo *Scherzo, variazioni e fantasia* (1830, A.44) è un caso di edizione parallela a Milano presso Ricordi e a Lipsia presso Breitkopf & Härtel. Sull’edizione milanese non compare alcun numero d’opera mentre su quella di Lipsia compare il numero d’op. 56. Due anni più tardi Ricordi attribuisce questo numero d’opera al *Saggio di una toccata* (1832, A.45), mentre nel catalogo numerico pubblicato nel 1857 lo stesso Ricordi utilizza la numerazione Breitkopf. Nel presente catalogo utilizziamo quindi per le composizioni A.44 e A.45 i numeri d’opera 56a e 56b. 
+La sigla identificativa di ogni composizione utilizzata nel presente catalogo si compone di una lettera e di un numero. Le lettere indicano la tipologia delle composizioni. Il numero è progressivo e – fin dove possibile – segue un ordinamento per data e, se questa è sconosciuta, per tonalità (salendo per gradi da Do maggiore). Aggiunte e rettifiche successive al 2023 portano numeri a partire da 220.
 
 ### A. Composizioni per pianoforte {#sectionA}
 
@@ -55,9 +57,13 @@ Il corpus di composizioni per pianoforte di Pollini a noi pervenuto è assai con
 
 Alla prima fase creativa di Pollini, che si estende dal 1789 circa al 1812 e coincide con gli ultimi anni viennesi di Pollini, il suo definitivo trasferimento a Milano e i suoi primi successi editoriali, risalgono le 32 sonate a uno o più movimenti che ci sono pervenute in forma manoscritta (FPC A.1-2, 6, 8-9, 17-18, 48-60, 62-73), e le sue prime pubblicazioni con o senza numero d’opera (A.3-5, 7, 10-16) fino alle sonate op. 26 (A.19) annesse al *Metodo* (F.201). La seconda fase copre il ventennio successivo, dal 1812 al 1834, ed è caratterizzata dalla produzione di variazioni, rondò, fantasie su temi d’opera e toccate, pubblicate quasi esclusivamente presso l’editore Ricordi. Le sonate op. 26 fanno da cerniera tra questi due periodi: esse rappresentano, da un lato, il culmine dell’impegno sonatistico di Pollini e l’ultimo ciclo da lui dedicato a questo genere strumentale; dall’altro, segnano l’inizio della sua duratura collaborazione con Ricordi.
 
+Una nota esplicativa è necessaria per la numerazione delle *Dodeci monferrine* A.15. Sebbene siano numerate da 1 a 12 e siano trasmesse anche isolatamente (ad esempio nella *Choix de danses* per il Congresso di Vienna, stampata da Artaria a Vienna), nella edizione originale è prescritta un’esecuzione a due a due: alla seconda monferrina di ciascuna coppia segue la ripetizione della prima. 
+
 ### B. Altre composizioni strumentali {#sectionB} 
 
 Sono soltanto una decina le composizioni per organici strumentali diversi dal pianoforte. La maggior parte di queste è legata all’arpa, strumento praticato dalla seconda moglie, Marianna Gasparini. Cronologicamente si passa dalla *Air varié pour la harpe* (B.74) pubblicata dalle sorelle Érard nel 1802 – una delle prime pubblicazioni di Pollini in assoluto – alla *Sonata facile per cembalo od arpa con violino obbligato* op. 33 (B.77) edita da Ricordi nel 1817. Si possono facilmente immaginare Marianna e Francesco suonare insieme la *Grande sonate, caprice et variations per arpa e pianoforte* del 1807 (B.75). Senza data rimangono due sonate per violino e pianoforte conservate manoscritte (B.78, B.83).
+
+L'unica fonte conosciuta per il brano strumentale B.82 è un manoscritto autografo conservato in una collezione privata italiana. La composizione è priva di titolo. L'organico per un solo strumento ad arco e un ensemble di fiati è insolito per l'epoca e unico nella produzione polliniana.
 
 ### C. Composizioni vocali da camera {#sectionC}
 
@@ -73,9 +79,11 @@ Se *La casetta nel bosco* fu rappresentata al teatro della Canobbiana, gli ampi 
 
 ### E. Musica sacra {#sectionE}
 
-Si conoscono solo pochissime composizioni su testo liturgico in latino, concepite dunque per essere eseguite in chiesa durante una funzione religiosa: il *Te Deum* E.185 e l’acclamazione *Vivat rex* (perduta), databili al 1805, e il *Requiem* E.190, privo di data.  
+Si conoscono solo pochissime composizioni su testo liturgico in latino, concepite dunque per essere eseguite in chiesa durante una funzione religiosa: il *Te Deum* E.185, l’acclamazione *Vivat rex* (perduta, databile al 1805), e il *Requiem* E.190, privo di data.  
 
-Un genere sacro di natura privata è invece la composizione di parafrasi italiane di testi sacri, come le tre lamentazioni databili al 1823 (E.188, E.189 ed E.190) e il fortunato *Stabat mater* di Evasio Leone pubblicato nel 1821 (E.187). Pollini mise in musica anche poesie spirituali, come la *Via crucis* (E.184), che reca sull’autografo la data 1800, o il sonetto *Io chiedo al ciel* di Giovanni Mario Crescimbeni (E.191).  
+Un genere sacro di natura privata è invece la composizione di parafrasi italiane di testi sacri, come il fortunato *Stabat mater* pubblicato nel 1821 nella versione italiana di Evasio Leone (E.187). Pollini mise in musica anche poesie spirituali, come la *Via crucis* (E.184), che reca sull’autografo la data 1800, o il sonetto *Io chiedo al ciel* di Giovanni Mario Crescimbeni (E.191).  
+
+La numerazione delle tre lamentazioni databili al 1823 (E.188, E.189 ed E.190), denominate prima, quinta e ultima lamentazione nell'autografo, potrebbe risultare insolita pensando all'uso liturgico. In realtà riflette i titoli dati dal traduttore Evasio Leone alla sua raccolta di *Lamentazioni di Geremia*, pubblicata per la prima volta a Torino nel 1798.
 
 ### F. Opere didattiche {#sectionF}
 
@@ -117,6 +125,7 @@ La bibliografia relativa a singole composizioni è menzionata nelle rispettive s
 - Salvetti, Guido. “Teoria e pratica pianistica nella Milano di primo Ottocento: Il caso Pollini”, in: Tasti neri e Tasti bianchi. Pianoforte, organo e attività musicale in Italia nel XIX e XX secolo, a cura di Anelide Ruggeri e Marco Nascimbene. Lucca: LIM, 2011, pp. 85–96.
 - Steffan, Carlida. “Francesco Pollini: musica vocale da camera e reti filarmoniche”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, a cura di Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci e Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 115–128.
 - Toscani, Claudio. “Intorno al Metodo per clavicembalo: uno sguardo sulla trattatistica coeva per strumenti da tasto”, in: Francesco Pollini e il mondo musicale milanese di primo Ottocento, a cura di Claudio Bacciagaluppi, Gabriele Manca, Leonardo Miucci e Claudio Toscani. Pisa: Edizioni ETS, 2024, pp. 151–164.
+- Zecca Laterza, Agostina. Il catalogo numerico Ricordi 1857: con date e indici. Roma: Nuovo istituto editoriale italiano, 1984.
 
 ### Edizioni critiche {#Eds}
 
