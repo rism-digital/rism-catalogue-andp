@@ -18,7 +18,7 @@ A cura di Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia e Leonardo
 
 [C. Composizioni vocali da camera](#sectionC)
 
-[D. Composizioni vocali-orchestrali](#sectionD)
+[D. Altre composizioni vocali profane](#sectionD)
 
 [E. Musica sacra](#sectionE)
 

@@ -18,7 +18,7 @@ Edited by Sara Andreacchio, Claudio Bacciagaluppi, Gigliola Di Grazia and Leonar
 
 [C. Chamber vocal music](#sectionC)
 
-[D. Vocal and orchestral works](#sectionD)
+[D. Other secular vocal works](#sectionD)
 
 [E. Sacred music](#sectionE)
 
