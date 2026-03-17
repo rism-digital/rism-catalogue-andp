@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/rism-digital/rism-catalogue-theme
-  revision: 29f10482cf94954ac85fbe930f2cb9ac85c3f235
+  revision: acc2d95b2e9855d99cc831a8e7431df416c4808c
   specs:
-    rism-catalogue-theme (1.1.0)
+    rism-catalogue-theme (1.1.1)
       jekyll (~> 4.1)
 
 GIT
@@ -14,9 +14,9 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-online-renderer
-  revision: 47e6f23c9d2ad6075eb028925271f35291726b69
+  revision: ebd9a8c5075e36559f95d68e96fad04befa597ce
   specs:
-    jekyll-rism-online-renderer (1.1.2)
+    jekyll-rism-online-renderer (1.1.3)
       jekyll (~> 4.1)
       sass-embedded (>= 1.68)
 
