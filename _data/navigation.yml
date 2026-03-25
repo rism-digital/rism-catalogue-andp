@@ -5,6 +5,12 @@
     it: "Home"
   link: /index.html
 - name:
+    en: "Introduction"
+    de: "Einführung"
+    fr: "Introduction"
+    it: "Introduzione"
+  link: /introduction.html
+- name:
     en: "Works"
     de: "Werke"
     fr: "Oeuvres"
