@@ -7,6 +7,8 @@ title_mobile:
 
 email: info@rism.digital
 baseurl: "/rism-catalog-andp"
+version: 0.9.0
+doi: 10.5281/zenodo.19232872
 
 sponsors:
   - url: https://fr.wikipedia.org/wiki/Licence_Creative_Commons
@@ -21,5 +23,8 @@ sass:
   sourcemap: never
 
 theme: rism-catalog-theme
+
+plugins:
+  - jekyll-github-metadata
 
 rism_catalog: "publications/50007446"
